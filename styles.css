@@ -20,7 +20,7 @@ nav {
 }
 
 body {
-    background-color:salmon;
+    background: radial-gradient(circle, rgb(211, 129, 120), rgb(168, 84, 87));
 }
 
 aside {
@@ -185,4 +185,11 @@ input {
 .blog-list {
     line-height: 1.6;
     color: #666;
+}
+
+footer {
+    text-align: center;
+  padding: 3px;
+  background-color: rgb(0, 0, 0);
+  color: white;
 }
