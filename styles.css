@@ -226,3 +226,8 @@ footer {
 .button:hover {
     background-color: #0046a1; /* Darker green when hovered */
 }
+
+.redBackground {
+    background-color: red;
+    color: white;
+}
